@@ -12,9 +12,9 @@ package tugas;
 public class Mahasiswa {
     
     public static void main(String[] args) {
-      String nama = "Dimas Ilham M";
-      String kelas = "4C";
-      String nim = "18090122";
+      String nama = "lilis sonia";
+      String kelas = "4A";
+      String nim = "18090051";
         System.out.println("Nama : "+nama);
         System.out.println("Kelas : "+kelas);
         System.out.println("Nim : "+nim);
